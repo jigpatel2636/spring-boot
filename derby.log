@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Sep 03 17:29:37 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-0542-55d1-000008cdb198 
+on database directory memory:/Users/jigpatel/Documents/workspace-spring-tool-suite-4-4.15.3.RELEASE/todolist/68e946af-3997-40e6-a862-b16a3aa20ab2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 
+Loaded from file:/Users/jigpatel/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.2+7-67
+user.dir=/Users/jigpatel/Documents/workspace-spring-tool-suite-4-4.15.3.RELEASE/todolist
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
